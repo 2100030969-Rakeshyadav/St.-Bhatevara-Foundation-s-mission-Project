@@ -1,0 +1,35 @@
+.admin-table{
+    margin: 2rem;
+    height: 60vh;
+    
+}
+.table-heading{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr ;
+   height: 2rem;  
+
+}
+.table-heading .table-row{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr ;
+   height: 2rem;
+   
+}
+.table-row{
+    display: grid;
+    height: 4rem;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 5%;
+
+}
+
+.table-heading .content{
+    font-size: larger;
+    font-weight: bold;
+}
+.heading{
+    font-size: larger;
+    font-weight: bold;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}

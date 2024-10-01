@@ -1,0 +1,26 @@
+table{
+    width: 90%;
+    margin: 4rem;
+}
+
+.table-row{
+    
+    display: flex;
+    justify-content: space-between;
+}
+td,th{
+    width: 12%;
+   
+}
+tr{
+    margin-bottom: rem;
+}
+thead{
+    margin-bottom: 8rem;
+
+}
+.interview-btn{
+    height: 2rem;
+    width: 7rem;
+    border-radius: 0.7rem;
+}
